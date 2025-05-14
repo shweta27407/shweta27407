@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 📊 My tools & interests:
 - Python, SQL, Pandas, Tableau
+- Transformer Models, LLM, Machine/Deep Learning, NLP
 - PySpark, Azure, Databricks
-- LLM, Machine/Deep Learning, NLP
 
 🌱 I'm currently learning:
-- Transformer Models
+- Feature Reduction Techniques (PCA, Autoencoders)
 - Graph Attention Networks
 
 💬 Fun fact: I love solving data puzzles and improving systems with clean code & data insights.
