@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Shweta
 
-![Views](https://komarev.com/ghpvc/?username=shweta27407&color=blue)
+![Views](https://komarev.com/ghpvc/?username=shweta27407&color=yellow)
 
 🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**, pursuing my **M.Sc. in Digital Engineering**.
 
