@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hi, I'm Shweta</h1>
 <h2 align="center">👋 Masters in Digital Engineering at OVGU</h2>
 
+<h3 align="center">
 ![Views](https://komarev.com/ghpvc/?username=shweta27407&color=yellow)
 
 🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**.
@@ -40,4 +41,6 @@ Here are some ideas to get you started:
 
 
 ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical)
+
+</h3>
 
