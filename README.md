@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 💬 Fun fact: I love solving data puzzles and improving systems with clean code & data insights.
 
 
-![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetabambal&show_icons=true&theme=radical)
+![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?username=shwetabambal&color=blue)
