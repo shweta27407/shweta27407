@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Shweta Bambal
+# 👋 Hi, I'm Shweta
+
+![Views](https://komarev.com/ghpvc/?username=shweta27407&color=blue)
 
 🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**, pursuing my **M.Sc. in Digital Engineering**.
 
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 💼 I’ve previously worked with:
 - **Kiwigrid GmbH** (Working Student – Software Developer)
-- **Cognizant Technology Solutions** (Associate AI/ML Data Scientist)
+- **Cognizant Technology Solutions** (Associate Backend Developer)
 
 📊 My tools & interests:
 - Python, SQL, Pandas, Tableau
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
 
 
 ![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=shwetabambal&color=blue)
+
