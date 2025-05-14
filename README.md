@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Shweta
+<h1 align="center">👋 Hi, I'm Shweta</h1>
+<h2 align="center">👋 Masters in Digital Engineering at OVGU</h2>
 
 ![Views](https://komarev.com/ghpvc/?username=shweta27407&color=yellow)
 
-🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**, pursuing my **M.Sc. in Digital Engineering**.
+🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**.
 
 🔬 My current research focus is on **peak or anomaly detection in time series** and **data-driven insights**.
 
