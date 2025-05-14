@@ -15,32 +15,28 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">👋 Hi, I'm Shweta</h1>
-<h2 align="center">👋 Masters in Digital Engineering at OVGU</h2>
+<h3 align="center">🎓 MS Student in Digital Engineering at OVGU, Germany</h3>
 
-<h3 align="center">
-![Views](https://komarev.com/ghpvc/?username=shweta27407&color=yellow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shweta27407&color=yellow" alt="profile views" />
+</p>
 
-🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**.
+🎯 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**.
 
-🔬 My current research focus is on **peak or anomaly detection in time series** and **data-driven insights**.
+🔬 My current research focus is on **Peak or Anomaly Detection in time series** and **data-driven insights**.
 
-💼 I’ve previously worked with:
-- **Kiwigrid GmbH** (Working Student – Software Developer)
-- **Cognizant Technology Solutions** (Associate Backend Developer)
 
 📊 My tools & interests:
-- Python, SQL, Pandas, Tableau
-- Transformer Models, LLM, Machine/Deep Learning, NLP
+- Python, SQL, Pandas, Tableau  
+- Transformer Models, LLM, Machine/Deep Learning, NLP  
 - PySpark, Azure, Databricks
 
 🌱 I'm currently learning:
-- Feature Reduction Techniques (PCA, Autoencoders)
+- Feature Reduction Techniques (PCA, Autoencoders)  
 - Graph Attention Networks
 
-💬 Fun fact: I love solving data puzzles and improving systems with clean code & data insights.
+---
 
-
-![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical)
-
-</h3>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shweta27407&show_icons=true&theme=radical" alt="Shweta's GitHub Stats" />
+</p>
