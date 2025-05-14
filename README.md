@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **shweta27407/shweta27407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Shweta Bambal
+
+🎓 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**, pursuing my **M.Sc. in Digital Engineering**.
+
+🔬 My current research focus is on **peak or anomaly detection in time series** and **data-driven insights**.
+
+💼 I’ve previously worked with:
+- **Kiwigrid GmbH** (Working Student – Software Developer)
+- **Cognizant Technology Solutions** (Associate AI/ML Data Scientist)
+
+📊 My tools & interests:
+- Python, SQL, Pandas, Tableau
+- PySpark, Azure, Databricks
+- LLM, Machine/Deep Learning, NLP
+
+🌱 I'm currently learning:
+- Transformer Models
+- Graph Attention Networks
+
+💬 Fun fact: I love solving data puzzles and improving systems with clean code & data insights.
+
+
+![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetabambal&show_icons=true&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=shwetabambal&color=blue)
