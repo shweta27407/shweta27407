@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 🌱 I'm currently learning:
 - Feature Reduction Techniques (PCA, Autoencoders)  
 - Graph Attention Networks
+- Data Warehousing
 
 ---
 
