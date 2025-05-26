@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🎯 I'm currently a **Research Assistant Data Scientist** at **OVGU Magdeburg**.
 
-🔬 My current research focus is on **Peak or Anomaly Detection in time series** and **data-driven insights**.
+🔬 My current research focus is on **Peak/Anomaly Detection in time series** and **data-driven insights**.
 
 
 📊 My tools & interests:
