@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 - PySpark, Azure, Databricks
 
 🌱 I'm currently learning:
-- Feature Reduction Techniques (PCA, Autoencoders)  
-- Graph Attention Networks
+- Feature Reduction Techniques (PCA, Variational Autoencoders (VAE), Hybrid Model - LSTM+CNN+AE)  
 - Data Warehousing
 
 ---
