@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 - Transformer Models, LLM, Machine/Deep Learning, NLP  
 - PySpark, Azure, Databricks
 
-🌱 I'm currently learning:
-- Feature Reduction Techniques (PCA, Variational Autoencoders (VAE), Hybrid Model - LSTM+CNN+AE)  
+🌱 I'm currently learning: 
 - Data Warehousing
 
 ---
