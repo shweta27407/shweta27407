@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🎯 I'm currently a **Research Assistant (ML/DS)** at **OVGU Magdeburg**.
 
-🔬 My current research focus is on **Peak/Anomaly Detection in Time Series Data** using deep learning models.
+🔬 My current research focus is on **Anomaly Detection in Industrial Sensor Time Series Data** using deep learning models.
 
 
 📊 My tools & interests:
