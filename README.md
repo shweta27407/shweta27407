@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=shweta27407&color=yellow" alt="profile views" />
 </p>
 
-🎯 I'm currently a **Research Assistant** at **OVGU Magdeburg**.
+🎯 I'm currently a **Research Assistant (ML/DS)** at **OVGU Magdeburg**.
 
 🔬 My current research focus is on **Peak/Anomaly Detection in Time Series Data** using deep learning models.
 
