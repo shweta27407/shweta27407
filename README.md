@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 📊 My tools & interests:
-- Python, SQL, Tableau, FastAPI, MLFlow, Docker, Airflow
+- Python, SQL, Tableau
 - Transformer Models, LLM, Machine/Deep Learning, NLP  
 - PySpark, Azure, Databricks
 
