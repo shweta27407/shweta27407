@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🎯 I'm currently a **Data Engineer and Machine Learning Assistant** at **OVGU Magdeburg**.
 
-🔬 My current work is focused on **Machine Falure Prediction and Failure Forecasting** for Industrial Manufacturing Systems using deep learning models.
+🔬 My current work is focused on **Machine Failure Prediction and Failure Forecasting** for Industrial Manufacturing Systems using deep learning models.
 
 
 📊 My tools & interests:
